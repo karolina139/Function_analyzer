@@ -1,0 +1,50 @@
+/* Plik z konfiguracją wyglądu aplikacji */
+
+#win {  
+    background-color:#ffffe6;  
+}
+
+#button:hover {
+    border-color: black;
+    color: black;
+    font-weight: bold;
+}
+
+#button2 {
+    font-size: 20px;
+}
+
+#button2:hover{
+    border-color: black;
+    color: black;
+    font-weight: bold;
+}
+
+#formula_label {
+    font-size: 30px; 
+    background-color: #ffffcc;
+}
+
+#formula_input {
+    font-size: 24px; 
+}
+
+#label {
+    font-size: 20px;
+    background-color: #ffffcc;
+    border-color: black;
+    border-bottom: 1px dashed black;
+    padding-left: 20px;
+}
+
+#output {
+    font-size: 22px;
+}
+
+#space {
+    font-size: 10px;
+    background-color: #ffffcc;
+}
+
+
+
