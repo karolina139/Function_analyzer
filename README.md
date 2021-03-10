@@ -18,3 +18,7 @@ Spospób uruchomienia:
 Skompilować plik Projekt_Funkcje.jl a następnie Projekt_GUI.jl.
 
 Enjoy! ;)
+
+![photo](analyzer/analyzer1.png)
+![photo](analyzer/analyzer2.png)
+
